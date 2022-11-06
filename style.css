@@ -12,12 +12,12 @@
            
 }
 .box1{
-   background-color: lightpink;
+   background-color: rgb(252, 87, 112);
    text-align: center;
    justify-content: center;
 }
 .box2{
-    background-color: lightpink;
+    background-color: rgb(253, 205, 212);
     text-align: center;
     justify-content: center;
     background-color: blueviolet;
@@ -25,45 +25,45 @@
     grid-row: 1/3;
 }
 .box3{
-    background-color: lightpink;
+    background-color: rgb(250, 16, 51);
     text-align: center;
     justify-content: center;
     background-color: blue;
     grid-column: 5/7;
 }
 .box4{
-    background-color: lightpink;
+    background-color: rgb(255, 112, 134);
     text-align: center;
     justify-content: center;
     background-color: lightpink;
 }
 .box5{
-    background-color: lightpink;
+    background-color: rgb(250, 89, 113);
     text-align: center;
     justify-content: center;
     background-color: blue;
     grid-column: 5/7;
 }
 .box6{
-    background-color: lightpink;
+    background-color: rgb(252, 127, 146);
     text-align: center;
     justify-content: center;
     background-color: lightpink;
 }
 .box7{
-    background-color: lightpink;
+    background-color: rgb(255, 106, 128);
     text-align: center;
     justify-content: center;
    background-color: lightpink; 
 }
 .box8{
-    background-color: lightpink;
+    background-color: rgb(162, 147, 228);
     text-align: center;
     justify-content: center;
    background-color: lightpink; 
 }
 .box9{
-    background-color: lightpink;
+    background-color: rgb(241, 125, 222);
     text-align: center;
     justify-content: center;
     background-color: blueviolet;
@@ -71,31 +71,31 @@
     grid-row: 3/5;
 }
 .box10{
-    background-color: lightpink;
+    background-color: rgb(121, 158, 226);
     text-align: center;
     justify-content: center;
    background-color: lightpink; 
 }
 .box11{
-    background-color: lightpink;
+    background-color: rgb(214, 124, 241);
     text-align: center;
     justify-content: center;
    background-color: lightpink; 
 }
 .box12{
-    background-color: lightpink;
+    background-color: rgb(238, 132, 238);
     text-align: center;
     justify-content: center;
     background-color: lightpink;
 }
 .box13{
-    background-color: lightpink;
+    background-color: rgb(209, 127, 241);
     text-align: center;
     justify-content: center;
    background-color: lightpink; 
 }
 .box14{
-    background-color: lightpink;
+    background-color: rgb(180, 108, 248);
     text-align: center;
     justify-content: center;
     background-color: lightpink;
